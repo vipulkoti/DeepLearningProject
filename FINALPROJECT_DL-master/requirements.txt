@@ -1,0 +1,9 @@
+transformers==4.24.0
+torchvision==0.15.1
+matplotlib
+numpy
+pandas
+requests
+tqdm
+tensorflow
+einops

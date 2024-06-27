@@ -1,0 +1,15 @@
+archive/*
+__pycache__/*
+.vscode/*
+flicker8k/*
+flickr8k/*
+model/test*/
+model/train*/
+!model/test*.py
+!model/train*.py
+test*/
+train*/
+!test*.py
+!train*.py
+**/cache/
+**/*.pyc
